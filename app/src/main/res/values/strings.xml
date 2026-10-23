@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Smart Pantry Manager</string>
+    <string name="welcome_message">Manage your pantry and discover recipes.</string>
+
+    <string name="my_pantry">My Pantry</string>
+    <string name="suggested_recipes">Suggested Recipes</string>
+
+    <string name="pantry_description">Manage the ingredients in your pantry.</string>
+    <string name="ingredient_name_hint">Enter ingredient name</string>
+    <string name="ingredient_quantity_hint">Enter quantity (e.g. 2)</string>
+    <string name="ingredient_unit_hint">Enter unit (e.g. kg, litres, pieces)</string>
+    <string name="add_ingredient">Add Ingredient</string>
+    <string name="pantry_items_heading">Your Pantry Items</string>
+    <string name="no_ingredients">No ingredients added yet.</string>
+    <string name="fill_all_fields">Please fill in all fields.</string>
+    <string name="ingredient_display">%1$s - %2$s %3$s</string>
+    <string name="invalid_quantity">Enter a valid quantity greater than zero.</string>
+    <string name="ingredient_saved">%1$s saved to your pantry.</string>
+    <string name="ingredient_save_failed">Could not save the ingredient. Please try again.</string>
+
+    <string name="recipes_description">Find recipes you can make with your pantry ingredients.</string>
+    <string name="recipes_empty_message">Your recipe suggestions will appear here.</string>
+    <string name="no_recipes_found">No recipes found.</string>
+    <string name="no_matching_recipes">No recipes match your pantry ingredients yet.</string>
+
+    <string name="recipe_ingredients_placeholder">Recipe ingredients will appear here.</string>
+    <string name="recipe_name">Recipe Name</string>
+    <string name="recipe_instructions_placeholder">Recipe instructions will appear here.</string>
+    <string name="preparation_instructions">Preparation Instructions</string>
+    <string name="ingredients">Ingredients</string>
+
+    <string-array name="unit_options">
+        <item>Pieces</item>
+        <item>Grams</item>
+        <item>Kilograms</item>
+        <item>Millilitres</item>
+        <item>Litres</item>
+        <item>Cups</item>
+        <item>Tablespoons</item>
+        <item>Teaspoons</item>
+    </string-array>
+
+</resources>
+
